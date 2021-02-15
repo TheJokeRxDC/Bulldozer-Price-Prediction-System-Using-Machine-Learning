@@ -22,12 +22,12 @@ I am unable to include the dataset in this repository due to it's size. Please m
 1. Environment setup :white_check_mark:
 2. Gathering the data :white_check_mark:
 3. Data Preprocessing and EDA 
-  - Feature extraction :white_check_mark:
-  - Converting Strings to Categories :white_check_mark:
-  - Fill missing values :white_check_mark:
+   - Feature extraction :white_check_mark:
+   - Converting Strings to Categories :white_check_mark:
+   - Fill missing values :white_check_mark:
 4. Model experimentation :hourglass:
-  - Hyperparameter tuning tsing RandomizedSearchCV :white_check_mark:
-  - Training the model with best parameters :white_check_mark:
+   - Hyperparameter tuning tsing RandomizedSearchCV :white_check_mark:
+   - Training the model with best parameters :white_check_mark:
 5. Predictions on test dataset :white_check_mark:
 6. Feature importance :white_check_mark:
 
