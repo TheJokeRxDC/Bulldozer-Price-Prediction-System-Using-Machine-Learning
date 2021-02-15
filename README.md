@@ -1,5 +1,5 @@
 # Bulldozer Price Prediction System Using Machine Learning
-
+<p align=center><img src="https://img.shields.io/badge/Last%20Commit-February 2021-brightgreen" hspace=20> <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen"></p>
 <img src=https://storage.googleapis.com/kaggle-competitions/kaggle/3316/media/bulldozer.jpg>
 
 Kaggle Link : https://www.kaggle.com/c/bluebook-for-bulldozers/overview
