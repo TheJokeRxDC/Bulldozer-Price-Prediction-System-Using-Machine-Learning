@@ -19,12 +19,17 @@ I am unable to include the dataset in this repository due to it's size. Please m
 
 ## Table of contents :hourglass:
 
-1. Environment setup
-2. Gathering the data
-3. Data Preprocessing and EDA
-4. Model experimentation
-5. Predictions on test dataset
-6. Feature importance
+1. Environment setup :white_check_mark:
+2. Gathering the data :white_check_mark:
+3. Data Preprocessing and EDA 
+  - Feature extraction :white_check_mark:
+  - Converting Strings to Categories :white_check_mark:
+  - Fill missing values :white_check_mark:
+4. Model experimentation :hourglass:
+  - Hyperparameter tuning tsing RandomizedSearchCV :white_check_mark:
+  - Training the model with best parameters :white_check_mark:
+5. Predictions on test dataset :white_check_mark:
+6. Feature importance :white_check_mark:
 
 ## Results :hourglass:
 Random Forest Regressor : RMSLE 0.24 (Top 100 leaderboard)
