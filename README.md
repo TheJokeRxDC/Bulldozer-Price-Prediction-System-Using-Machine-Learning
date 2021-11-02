@@ -1,6 +1,18 @@
 # Bulldozer Price Prediction System Using Machine Learning
-<p align=center><img src="https://img.shields.io/badge/Last%20Commit-February 2021-brightgreen" hspace=20> <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen"></p>
-<img src=https://storage.googleapis.com/kaggle-competitions/kaggle/3316/media/bulldozer.jpg>
+
+<p align="center">
+  <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+  <img src="http://ForTheBadge.com/images/badges/built-by-developers.svg">
+</p>
+
+<p align=center>
+   <img src="https://img.shields.io/badge/Last%20Commit-February 2021-brightgreen" hspace=20> 
+   <img src="https://img.shields.io/badge/Project%20Status-Open-brightgreen">
+</p>
+
+<p align="center">
+   <img src=https://storage.googleapis.com/kaggle-competitions/kaggle/3316/media/bulldozer.jpg>
+</p>
 
 Kaggle Link : https://www.kaggle.com/c/bluebook-for-bulldozers/overview
 
